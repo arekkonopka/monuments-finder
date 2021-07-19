@@ -1,0 +1,438 @@
+[
+  {
+    "id": 1,
+    "nid_id": "590289",
+    "identification": "Park pałacowy",
+    "common_name": "",
+    "description": "",
+    "categories": [
+      "park_ogrod",
+      "dworski_palacowy_zamek"
+    ],
+    "state": "unchecked",
+    "register_number": "1028/J z 21.12.1990",
+    "dating_of_obj": "2 poł. XIX",
+    "street": "",
+    "latitude": 51.2658553,
+    "longitude": 15.5657397,
+    "tags": [],
+    "country_code": "PL",
+    "fprovince": null,
+    "fplace": null,
+    "documents_info": null,
+    "links_info": null,
+    "main_photo": {
+      "id": null,
+      "relic_id": null,
+      "author": null,
+      "date_taken": null,
+      "alternate_text": null,
+      "file": {
+        "url": "/assets/fallback/photo_default.png",
+        "icon": {
+          "url": "/assets/fallback/photo_icon_default.png"
+        },
+        "mini": {
+          "url": "/assets/fallback/photo_mini_default.png"
+        },
+        "midi": {
+          "url": "/assets/fallback/photo_midi_default.png"
+        },
+        "maxi": {
+          "url": "/assets/fallback/photo_maxi_default.png"
+        },
+        "full": {
+          "url": "/assets/fallback/photo_full_default.png"
+        }
+      },
+      "file_full_width": null,
+      "description": null,
+      "position": null
+    },
+    "events": [],
+    "entries": [],
+    "links": [],
+    "documents": [],
+    "alerts": [],
+    "descendants": [],
+    "photos": [],
+    "place_id": 18399,
+    "place_name": "Dąbrowa Bolesławiecka",
+    "commune_name": "Bolesławiec",
+    "district_name": "bolesławiecki",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 2,
+    "nid_id": "590290",
+    "identification": "Zespół kościoła fil. p.w. św. Jadwigi",
+    "common_name": "",
+    "description": "",
+    "categories": [
+      "sakralny"
+    ],
+    "state": "unchecked",
+    "register_number": "",
+    "dating_of_obj": "XVI",
+    "street": "",
+    "latitude": 51.2130877,
+    "longitude": 15.520247,
+    "tags": [],
+    "country_code": "PL",
+    "fprovince": null,
+    "fplace": null,
+    "documents_info": null,
+    "links_info": null,
+    "main_photo": {
+      "id": null,
+      "relic_id": null,
+      "author": null,
+      "date_taken": null,
+      "alternate_text": null,
+      "file": {
+        "url": "/assets/fallback/photo_default.png",
+        "icon": {
+          "url": "/assets/fallback/photo_icon_default.png"
+        },
+        "mini": {
+          "url": "/assets/fallback/photo_mini_default.png"
+        },
+        "midi": {
+          "url": "/assets/fallback/photo_midi_default.png"
+        },
+        "maxi": {
+          "url": "/assets/fallback/photo_maxi_default.png"
+        },
+        "full": {
+          "url": "/assets/fallback/photo_full_default.png"
+        }
+      },
+      "file_full_width": null,
+      "description": null,
+      "position": null
+    },
+    "events": [],
+    "entries": [],
+    "links": [],
+    "documents": [],
+    "alerts": [],
+    "descendants": [
+      {
+        "id": 4,
+        "nid_id": "590292",
+        "identification": "Cmentarz par.",
+        "common_name": "",
+        "description": "",
+        "categories": [
+          "cmentarny"
+        ],
+        "state": "unchecked",
+        "register_number": "1019/J z 14.03.1990",
+        "dating_of_obj": "XVI",
+        "street": "",
+        "latitude": 51.2130877,
+        "longitude": 15.520247,
+        "tags": [],
+        "country_code": "PL",
+        "fprovince": null,
+        "fplace": null,
+        "documents_info": null,
+        "links_info": null,
+        "main_photo": {
+          "id": null,
+          "relic_id": null,
+          "author": null,
+          "date_taken": null,
+          "alternate_text": null,
+          "file": {
+            "url": "/assets/fallback/photo_default.png",
+            "icon": {
+              "url": "/assets/fallback/photo_icon_default.png"
+            },
+            "mini": {
+              "url": "/assets/fallback/photo_mini_default.png"
+            },
+            "midi": {
+              "url": "/assets/fallback/photo_midi_default.png"
+            },
+            "maxi": {
+              "url": "/assets/fallback/photo_maxi_default.png"
+            },
+            "full": {
+              "url": "/assets/fallback/photo_full_default.png"
+            }
+          },
+          "file_full_width": null,
+          "description": null,
+          "position": null
+        },
+        "events": [],
+        "entries": [],
+        "links": [],
+        "documents": [],
+        "alerts": [],
+        "descendants": [],
+        "photos": [],
+        "place_id": 18407,
+        "place_name": "Kraszowice",
+        "commune_name": "Bolesławiec",
+        "district_name": "bolesławiecki",
+        "voivodeship_name": "dolnośląskie"
+      },
+      {
+        "id": 5,
+        "nid_id": "590293",
+        "identification": "Ogrodzenie z bramką",
+        "common_name": "",
+        "description": "",
+        "categories": [
+          "mala_architektura"
+        ],
+        "state": "unchecked",
+        "register_number": "1019/J z 14.03.1990",
+        "dating_of_obj": "",
+        "street": "",
+        "latitude": 51.2130877,
+        "longitude": 15.520247,
+        "tags": [],
+        "country_code": "PL",
+        "fprovince": null,
+        "fplace": null,
+        "documents_info": null,
+        "links_info": null,
+        "main_photo": {
+          "id": null,
+          "relic_id": null,
+          "author": null,
+          "date_taken": null,
+          "alternate_text": null,
+          "file": {
+            "url": "/assets/fallback/photo_default.png",
+            "icon": {
+              "url": "/assets/fallback/photo_icon_default.png"
+            },
+            "mini": {
+              "url": "/assets/fallback/photo_mini_default.png"
+            },
+            "midi": {
+              "url": "/assets/fallback/photo_midi_default.png"
+            },
+            "maxi": {
+              "url": "/assets/fallback/photo_maxi_default.png"
+            },
+            "full": {
+              "url": "/assets/fallback/photo_full_default.png"
+            }
+          },
+          "file_full_width": null,
+          "description": null,
+          "position": null
+        },
+        "events": [],
+        "entries": [],
+        "links": [],
+        "documents": [],
+        "alerts": [],
+        "descendants": [],
+        "photos": [],
+        "place_id": 18407,
+        "place_name": "Kraszowice",
+        "commune_name": "Bolesławiec",
+        "district_name": "bolesławiecki",
+        "voivodeship_name": "dolnośląskie"
+      },
+      {
+        "id": 3,
+        "nid_id": "590291",
+        "identification": "Kościół fil. p.w. św. Jadwigi",
+        "common_name": "",
+        "description": "",
+        "categories": [
+          "sakralny"
+        ],
+        "state": "unchecked",
+        "register_number": "800 z 30.11.1960",
+        "dating_of_obj": "XVI",
+        "street": "",
+        "latitude": 51.2130877,
+        "longitude": 15.520247,
+        "tags": [],
+        "country_code": "PL",
+        "fprovince": null,
+        "fplace": null,
+        "documents_info": null,
+        "links_info": null,
+        "main_photo": {
+          "id": null,
+          "relic_id": null,
+          "author": null,
+          "date_taken": null,
+          "alternate_text": null,
+          "file": {
+            "url": "/assets/fallback/photo_default.png",
+            "icon": {
+              "url": "/assets/fallback/photo_icon_default.png"
+            },
+            "mini": {
+              "url": "/assets/fallback/photo_mini_default.png"
+            },
+            "midi": {
+              "url": "/assets/fallback/photo_midi_default.png"
+            },
+            "maxi": {
+              "url": "/assets/fallback/photo_maxi_default.png"
+            },
+            "full": {
+              "url": "/assets/fallback/photo_full_default.png"
+            }
+          },
+          "file_full_width": null,
+          "description": null,
+          "position": null
+        },
+        "events": [],
+        "entries": [],
+        "links": [],
+        "documents": [],
+        "alerts": [],
+        "descendants": [],
+        "photos": [],
+        "place_id": 18407,
+        "place_name": "Kraszowice",
+        "commune_name": "Bolesławiec",
+        "district_name": "bolesławiecki",
+        "voivodeship_name": "dolnośląskie"
+      }
+    ],
+    "photos": [],
+    "place_id": 18407,
+    "place_name": "Kraszowice",
+    "commune_name": "Bolesławiec",
+    "district_name": "bolesławiecki",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 6,
+    "nid_id": "590294",
+    "identification": "Dwór (ruina)",
+    "common_name": "",
+    "description": "",
+    "categories": [
+      "dworski_palacowy_zamek"
+    ],
+    "state": "unchecked",
+    "register_number": "1989 z 12.01.1972",
+    "dating_of_obj": "XVI",
+    "street": "",
+    "latitude": 51.2130877,
+    "longitude": 15.520247,
+    "tags": [],
+    "country_code": "PL",
+    "fprovince": null,
+    "fplace": null,
+    "documents_info": null,
+    "links_info": null,
+    "main_photo": {
+      "id": null,
+      "relic_id": null,
+      "author": null,
+      "date_taken": null,
+      "alternate_text": null,
+      "file": {
+        "url": "/assets/fallback/photo_default.png",
+        "icon": {
+          "url": "/assets/fallback/photo_icon_default.png"
+        },
+        "mini": {
+          "url": "/assets/fallback/photo_mini_default.png"
+        },
+        "midi": {
+          "url": "/assets/fallback/photo_midi_default.png"
+        },
+        "maxi": {
+          "url": "/assets/fallback/photo_maxi_default.png"
+        },
+        "full": {
+          "url": "/assets/fallback/photo_full_default.png"
+        }
+      },
+      "file_full_width": null,
+      "description": null,
+      "position": null
+    },
+    "events": [],
+    "entries": [],
+    "links": [],
+    "documents": [],
+    "alerts": [],
+    "descendants": [],
+    "photos": [],
+    "place_id": 18407,
+    "place_name": "Kraszowice",
+    "commune_name": "Bolesławiec",
+    "district_name": "bolesławiecki",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 47798,
+    "nid_id": "638453",
+    "identification": "Dom",
+    "common_name": "",
+    "description": "",
+    "categories": [
+      "mieszkalny"
+    ],
+    "state": "unchecked",
+    "register_number": "A/1479/92 z 04.08.1992",
+    "dating_of_obj": "",
+    "street": "ul. Betonowa 30",
+    "latitude": 50.2999012,
+    "longitude": 19.096931,
+    "tags": [],
+    "country_code": "PL",
+    "fprovince": null,
+    "fplace": null,
+    "documents_info": null,
+    "links_info": null,
+    "main_photo": {
+      "id": null,
+      "relic_id": null,
+      "author": null,
+      "date_taken": null,
+      "alternate_text": null,
+      "file": {
+        "url": "/assets/fallback/photo_default.png",
+        "icon": {
+          "url": "/assets/fallback/photo_icon_default.png"
+        },
+        "mini": {
+          "url": "/assets/fallback/photo_mini_default.png"
+        },
+        "midi": {
+          "url": "/assets/fallback/photo_midi_default.png"
+        },
+        "maxi": {
+          "url": "/assets/fallback/photo_maxi_default.png"
+        },
+        "full": {
+          "url": "/assets/fallback/photo_full_default.png"
+        }
+      },
+      "file_full_width": null,
+      "description": null,
+      "position": null
+    },
+    "events": [],
+    "entries": [],
+    "links": [],
+    "documents": [],
+    "alerts": [],
+    "descendants": [],
+    "photos": [],
+    "place_id": 91182,
+    "place_name": "Czeladź",
+    "commune_name": "Czeladź",
+    "district_name": "będziński",
+    "voivodeship_name": "śląskie"
+  }
+]
