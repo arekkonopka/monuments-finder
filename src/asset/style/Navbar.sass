@@ -1,0 +1,27 @@
+.navbar
+  position: relative
+  left: -100%
+  z-index: 1
+  background-color: #000
+  width: 20%
+  height: 100vh
+  overflow: hidden
+  transition: 0.3s
+.navbar.active
+  left: 0
+  ul
+    margin-top: 100px
+    list-style-type: none
+    width: 150px
+    li
+      color: white
+      margin: 20px 0
+      cursor: pointer
+      &:hover
+        background-color: #4158D0
+        background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%)
+        -webkit-text-fill-color: transparent
+        -webkit-background-clip: text
+    .searchInput
+      padding: 5px
+      border-radius: 5px
