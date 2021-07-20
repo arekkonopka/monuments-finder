@@ -4,7 +4,6 @@ import Navbar from './components/Navbar';
 import ReactMapGL, { Marker, Popup } from 'react-map-gl';
 import MenuBurger from './components/MenuBurger';
 import dataTestContainer from './data/dataTestContainer.json'
-import axios from 'axios';
 
 const api = process.env.REACT_APP_MAPBOX_API_ACCESS_TOKEN
 
@@ -20,15 +19,12 @@ function App() {
   });
 
   const onClickMarker = (monument) => {
-    console.log(monument)
-    setPopup(monument)
 
+    setPopup(monument)
   }
   const onClosePopUp = () => {
     setPopup(false)
-
   }
-
 
 
   return (
