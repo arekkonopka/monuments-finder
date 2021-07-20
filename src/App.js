@@ -15,7 +15,7 @@ function App() {
     height: 100,
     latitude: 52.237049,
     longitude: 21.017532,
-    zoom: 6,
+    zoom: 7,
     mapboxApiAccessToken: api,
   });
 
