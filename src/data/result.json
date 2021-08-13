@@ -1,0 +1,123 @@
+[
+  {
+    "id": 999,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 51.0501847,
+    "longitude": 16.1927761,
+    "register_number": "328 z 6.11.1956; 34/L",
+    "dating_of_obj": "",
+    "place_name": "Jawor",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 9990,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 50.8947851,
+    "longitude": 14.9826033,
+    "register_number": "594/J z 23.10.1978",
+    "dating_of_obj": "",
+    "place_name": "Bogatynia",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 9991,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 50.9045669,
+    "longitude": 14.9550055,
+    "register_number": "1893 z 05.01.1967",
+    "dating_of_obj": "",
+    "place_name": "Bogatynia",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 9992,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 50.904031,
+    "longitude": 14.9553939,
+    "register_number": "1894 z 05.01.1967",
+    "dating_of_obj": "",
+    "place_name": "Bogatynia",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 9993,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 50.9050609,
+    "longitude": 14.9541863,
+    "register_number": "1895 z 05.01.1967",
+    "dating_of_obj": "XVIII",
+    "place_name": "Bogatynia",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 9994,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 50.905396,
+    "longitude": 14.953851,
+    "register_number": "1896 z 05.01.1967",
+    "dating_of_obj": "XIX",
+    "place_name": "Bogatynia",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 9995,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 50.9067912,
+    "longitude": 14.9534661,
+    "register_number": "1144/J z 29.06.1993",
+    "dating_of_obj": "poł. XVIII",
+    "place_name": "Bogatynia",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 9996,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 50.8964586,
+    "longitude": 14.9774436,
+    "register_number": "581/J z 23.10.1978",
+    "dating_of_obj": "",
+    "place_name": "Bogatynia",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 9997,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 50.8958662,
+    "longitude": 14.9781639,
+    "register_number": "553/J z 23.10.1978",
+    "dating_of_obj": "",
+    "place_name": "Bogatynia",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 9998,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 50.895795,
+    "longitude": 14.978681,
+    "register_number": "552/J z 23.10.1978",
+    "dating_of_obj": "",
+    "place_name": "Bogatynia",
+    "voivodeship_name": "dolnośląskie"
+  },
+  {
+    "id": 9999,
+    "identification": "Dom",
+    "state": "unchecked",
+    "latitude": 50.895376,
+    "longitude": 14.9793725,
+    "register_number": "582/J z 23.10.1978",
+    "dating_of_obj": "",
+    "place_name": "Bogatynia",
+    "voivodeship_name": "dolnośląskie"
+  }
+]
